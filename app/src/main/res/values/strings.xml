@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="toast">TOAST</string>
+    <string name="count">COUNT</string>
+    <string name="random">RANDOM</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">
+        0
+    </string>
+</resources>
